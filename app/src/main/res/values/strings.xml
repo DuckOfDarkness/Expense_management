@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Expense management</string>
+    <string name="cena">Cena</string>
+    <string name="nazwa">Nazwa</string>
+    <string name="ilo">Ilość</string>
+    <string name="dodaj">DODAJ</string>
+    <string name="icon">icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add" />
+    <string name="the_amount_of_the_item_purchased">The amount of the item purchased</string>
+    <string name="the_price_of_the_purchased_item">The price of the purchased item</string>
+    <string name="description">Description</string>
+    <string name="add_a_new_item">Add a new item</string>
+    <string name="name">Name</string>
+    <string name="amounttextview">AmountTextView</string>
+    <string name="pricetextview">priceTextView</string>
+    <string name="amount">Amount</string>
+    <string name="nametextview">nameTextView</string>
+    <string name="desctextview">descTextView</string>
+    <string name="price">Price</string>
+    <string name="total_price">Total price</string>
+    <string name="total">total</string>
+    <string name="confirm_button">Confirm button</string>
+    <string name="delete_question">Are you sure you want to delete the item</string>
+    <string name="delete_confirm">Delete</string>
+    <string name="delete_cancel">Cancel</string>
+    <string name="database_error">Error loading data. Please try again.</string>
+    <string name="_0">0</string>
+    <string name="add_new_item">Add new Item</string>
+    <string name="share_item">Share item</string>
+    <string name="insert_name">Insert name</string>
+    <string name="insert_price">Insert price</string>
+    <string name="insert_description">Insert description</string>
+    <string name="choose_icon">Choose icon</string>
+    <string name="insert_amount">Insert amount</string>
+    <string name="sort_by_price">Sort by price</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_amount_of_items">Enter amount of items</string>
+    <string name="enter_price">Enter price</string>
+    <string name="enter_description">Enter description</string>
+    <string name="enter_amount">enter_amount</string>
+    <string name="enteramount">Enter amount</string>
+</resources>
